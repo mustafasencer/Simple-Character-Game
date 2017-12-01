@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Character Game</string>
+    <string name="Bilmece_metni" translatable="false">Çarşıdan aldım 1 tane eve geldim 40 tane</string>
+    <string name="bilmecenin_cevabı" translatable="false">Nar dayı baya basit!</string>
+    <string name="Cevap_butonu">result</string>
+    <string name="saldır">attack</string>
+    <string name="yemekye">feed</string>
+    <string name="uyu">sleep</string>
+</resources>

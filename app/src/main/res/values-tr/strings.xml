@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cacık Üretim Merkezi</string>
+    <string name="uyu">uyu</string>
+    <string name="yemekye">besle</string>
+    <string name="saldır">saldır</string>
+    <string name="Cevap_butonu">cevap</string>
+</resources>
